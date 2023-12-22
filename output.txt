@@ -1,0 +1,12 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< Aug2023POMSeries:Aug2023POMSeries >------------------
+[INFO] Building Aug2023POMSeries 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 
